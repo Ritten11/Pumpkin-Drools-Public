@@ -3,6 +3,9 @@
 
 Welcome to the public repository of the ProSeed Seed Selector. The application allows the user to optimize the seed selection for creating hybrid pumpkin seeds. The application uses knowledge provided by organic seeds breeder "De Bolster b.v.", to determine the phenotype of the child plant after breeding with two parents plants. The current version is a demo version based on mock data, but has been validated by an expert breeder. The program could therefore be used as a useful tool for any pumpkin breeder once real data is fed into the application.
 
+## Disclaimer:
+This application was developed as a school project with the assistance of an expert breeder at "de Bolster b.v.". The expert knowledge used for the development of this application is considered to be the intellectual property of "De Bolster b.v." and therefore, the code is not to be redistributed. 
+
 ## Running instructions 
 #### validated on a linux machine running: 
 Ubuntu 20.04.3 LTS (Focal Fossa), \
