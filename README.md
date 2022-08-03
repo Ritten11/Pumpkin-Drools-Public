@@ -18,3 +18,10 @@ OpenJDK 64-Bit Server VM (build 25.312-b07, mixed mode)
 `java -jar ProSeed-1.2-Final.jar`
 
 
+## Acknowledgements
+Special thanks to fellow project members:\
+Daan Krol \
+Julian Bruisma
+
+And pumpkin breeding expert:\
+Mayra Huzen
